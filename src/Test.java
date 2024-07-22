@@ -3,8 +3,7 @@ public class Test {
 
     public static void main(String[] args) {
         // Create a Scanner object to read user input
-        Scanner scanner = new Scanner(System.in);
-
+        Scanner scanner = new Scanner(System.in)
         // Prompt the user for input
         System.out.print("Enter your name: ");
         // Read a line of text entered by the user
